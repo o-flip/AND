@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RSSFeed</string>
+    <string name="action_share">Share</string>
+    <string name="article_detail_label">Article detail</string>
+    <string name="default_title">Default Title</string>
+    <string name="default_content">Default Content</string>
+    <string name="action_refresh">refresh</string>
+    <string name="feed_config">Feed Configuration</string>
+    <string name="feed_list_label">Feed Configuration</string>
+    <string name="action_add_feed">Add</string>
+    <string name="default_full_article">VIEW FULL ARTICLE</string>
+    <string name="delete_dialog_title">Delete Feed?</string>
+    <string name="add_dialog_title">Add Feed</string>
+    <string name="dialog_cancel_button">Cancle</string>
+    <string name="dialog_add_button">Add</string>
+    <string name="dialog_delete_button">Delete</string>
+    <string name="detail_posted_by"> posted by </string>
+    <string name="default_unknown_author">Unknown Author</string>
+
+</resources>
